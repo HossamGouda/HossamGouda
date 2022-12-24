@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I like to computer science very passionate to add knowledge for my self .
+I like computer science and I am passionate to add knowledge for my self .
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [hos.gouda90@gmail.com](mailto:hos.gouda90@gmail.com)
