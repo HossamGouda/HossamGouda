@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer || Full Stack Developer
 -----------------------------------------
 
-I like to computer science very passionate to add knowledge for my self .
+I like computer science very passionate to add knowledge for myself.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [hos.gouda90@gmail.com](mailto:hos.gouda90@gmail.com)
@@ -49,3 +49,7 @@ I like to computer science very passionate to add knowledge for my self .
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/HossamGouda/react-contacts-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HossamGouda&repo=react-contacts-app&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/HossamGouda/My-Reads-UD-React-Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HossamGouda&repo=My-Reads-UD-React-Project&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/hossamgouda"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
