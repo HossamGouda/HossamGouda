@@ -8,8 +8,8 @@ I like computer science very passionate to add knowledge for myself.
 
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [hos.gouda90@gmail.com](mailto:hos.gouda90@gmail.com)
-* 🚀  I'm currently working on [Website developing for marketing company](http://brand-banner.com)
-* 🧠  I'm learning PHP
+* 🚀  I'm currently working on [RPA Automation]
+* 🧠  I'm learning NextJs
 
 ### Skills
 
