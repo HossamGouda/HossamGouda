@@ -46,9 +46,9 @@ I like computer science very passionate to add knowledge for myself.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/hossamgouda"><img src="https://github-readme-stats.vercel.app/api?username=hossamgouda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hossamgouda's GitHub stats" /></a>
+<a href="http://www.github.com/hossamgouda"><img src="https://github-readme-stats.vercel.app/api?username=hossamgouda&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&include_all_commits=false&count_private=true" alt="hossamgouda's GitHub stats" /></a>
 
-<a href="http://www.github.com/hossamgouda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hossamgouda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/hossamgouda"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hossamgouda&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&include_all_commits=false&count_private=true" /></a>
 
 <a href="https://github.com/hossamgouda" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossamgouda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
