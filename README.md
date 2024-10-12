@@ -48,6 +48,6 @@ I like computer science very passionate to add knowledge for myself.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HossamGouda&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=HossamGouda&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 
