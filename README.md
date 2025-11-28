@@ -51,12 +51,9 @@ I build **automation workflows**, **full stack web apps**, and **cloud-based sol
 
 ## 📊 GitHub Stats
 
-> (Optional: uncomment if you want these in your profile)
 
-<!--
 ![Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
--->
 
 ---
 
