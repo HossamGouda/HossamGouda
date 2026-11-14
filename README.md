@@ -60,11 +60,6 @@ I'm **Hossam Gouda**, an agricultural engineer with **10+ years in irrigation sy
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HossamGouda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hossam Gouda GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamGouda&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HossamGouda/HossamGouda/output/github-contribution-grid-snake-dark.svg">
   <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/HossamGouda/HossamGouda/output/github-contribution-grid-snake.svg">
