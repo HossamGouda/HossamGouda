@@ -27,10 +27,11 @@ I'm **Hossam Gouda**, an agricultural engineer with **10+ years in irrigation sy
 
 ## Live Products
 
-Built first for my own team's daily work, then published. Both keep company data under the user's control: nothing goes to a third party unless the user reviews it and confirms where it is sent.
+Built first for my own team's daily work, then published. Basira and TypePilot keep company data under the user's control: nothing goes to a third party unless the user reviews it and confirms where it is sent.
 
 | Product | What it does | Get it |
 |---|---|---|
+| **HDPE Pipe Calculator** | Pipe weight and pressure calculations for HDPE pipes to DIN 8074, ISO 4427, ASTM F714 and FM 1613, for water, gas, industrial and fire-protection lines. | <a href="https://hdpe.hossamgouda.com/"><img src="https://img.shields.io/badge/Web_App-Open-0A7E8C?style=flat-square&logo=googlechrome&logoColor=white" alt="Open the HDPE Pipe Calculator"></a> |
 | **Basira — Private AI Workspace** | My daily AI assistant. Chat with web pages, extract tables and lists, and keep research in a private local vault. You see and approve what is sent to an AI provider before it leaves the browser. | <a href="https://chromewebstore.google.com/detail/basira-private-ai-workspace/pjnabmgggljaohlghgocippfdnfnepmo"><img src="https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Install Basira from the Chrome Web Store"></a> |
 | **TypePilot** | Our team's shared canned templates for CRM follow-ups and marketing messages. Type a shortcut like `/reply` to insert a template with fill-in fields and dates. Snippets stay on the device. | <a href="https://chromewebstore.google.com/detail/typepilot/opbphmeammgegbildlacelkmkfncpgcg"><img src="https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Install TypePilot from the Chrome Web Store"></a> |
 
