@@ -27,8 +27,14 @@ I'm **Hossam Gouda**, an agricultural engineer with **10+ years in irrigation sy
 
 ## Live Products
 
+Built first for my own team's daily work, then published. Both keep company data under the user's control: nothing goes to a third party unless the user reviews it and confirms where it is sent.
+
 | Product | What it does | Get it |
 |---|---|---|
+| **Basira — Private AI Workspace** | My daily AI assistant. Chat with web pages, extract tables and lists, and keep research in a private local vault. You see and approve what is sent to an AI provider before it leaves the browser. | <a href="https://chromewebstore.google.com/detail/basira-private-ai-workspace/pjnabmgggljaohlghgocippfdnfnepmo"><img src="https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Install Basira from the Chrome Web Store"></a> |
+| **TypePilot** | Our team's shared canned templates for CRM follow-ups and marketing messages. Type a shortcut like `/reply` to insert a template with fill-in fields and dates. Snippets stay on the device. | <a href="https://chromewebstore.google.com/detail/typepilot/opbphmeammgegbildlacelkmkfncpgcg"><img src="https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Install TypePilot from the Chrome Web Store"></a> |
+
+---|---|---|
 | **Basira — Private AI Workspace** | Chat with any web page, pull tables and lists out of websites, keep research in a private local vault, and see exactly what is sent to AI providers. Bring your own AI keys. | <a href="https://chromewebstore.google.com/detail/basira-private-ai-workspace/pjnabmgggljaohlghgocippfdnfnepmo"><img src="https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Install Basira from the Chrome Web Store"></a> |
 | **TypePilot** | Text expander: type a shortcut like `/reply` to insert saved templates with fill-in forms, calculations and smart dates. Everything stays on your device. | <a href="https://chromewebstore.google.com/detail/typepilot/opbphmeammgegbildlacelkmkfncpgcg"><img src="https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Install TypePilot from the Chrome Web Store"></a> |
 
