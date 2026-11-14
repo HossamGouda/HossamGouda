@@ -25,6 +25,15 @@ I'm **Hossam Gouda**, an agricultural engineer with **10+ years in irrigation sy
 
 ---
 
+## Live Products
+
+| Product | What it does | Get it |
+|---|---|---|
+| **Basira — Private AI Workspace** | Chat with any web page, pull tables and lists out of websites, keep research in a private local vault, and see exactly what is sent to AI providers. Bring your own AI keys. | <a href="https://chromewebstore.google.com/detail/basira-private-ai-workspace/pjnabmgggljaohlghgocippfdnfnepmo"><img src="https://img.shields.io/badge/Chrome_Web_Store-Install-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Install Basira from the Chrome Web Store"></a> |
+| **TypePilot** | Text expander: type a shortcut like `/reply` to insert saved templates with fill-in forms, calculations and smart dates. Everything stays on your device. | Chrome Web Store |
+
+---
+
 ## What I'm Building
 
 > Private products in active development.
