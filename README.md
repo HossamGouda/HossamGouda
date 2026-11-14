@@ -42,7 +42,7 @@ I'm **Hossam Gouda**, an agricultural engineer with **10+ years in irrigation sy
 
 ## Skills
 
-**Engineering:** irrigation hydraulics · FAO-56 ET₀ / crop water requirements · drip & sprinkler design · HDPE/PVC networks · pump selection · fertigation · AutoCAD (2D design) · Revit (3D & BOM)
+**Engineering:** irrigation hydraulics · FAO-56 ET₀ / crop water requirements · drip & sprinkler design · HDPE/PVC networks · pump selection · fertigation · AutoCAD
 
 **Business:** B2B / EPC key account management · technical sales · tenders & BOQ quoting · export sales · branch P&L and team leadership · ERP (Microsoft Dynamics)
 
